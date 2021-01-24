@@ -1,1 +1,1 @@
-# AWS-Assignment-1---Swathiga-A
+# AWS-Assignments---Swathiga-A
